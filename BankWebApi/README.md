@@ -31,6 +31,4 @@ A API inclui a configuração do Swagger para documentação interativa. Você p
 Para mais informações, entre em contato conosco:
 - Marcus Carraschi: marcuscarraschy@gmail.com
 - Yago Maksuell: y.maksuell@gmail.com
-
 ---
-
