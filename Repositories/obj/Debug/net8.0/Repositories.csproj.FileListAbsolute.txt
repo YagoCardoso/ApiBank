@@ -1,0 +1,12 @@
+C:\Users\yago.cardoso\Downloads\github\ApiBank\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\yago.cardoso\Downloads\github\ApiBank\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\yago.cardoso\Downloads\github\ApiBank\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\yago.cardoso\Downloads\github\ApiBank\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yago.cardoso\Downloads\github\ApiBank\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\yago.cardoso\Downloads\github\ApiBank\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\yago.cardoso\Downloads\github\ApiBank\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\yago.cardoso\Downloads\github\ApiBank\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+C:\Users\yago.cardoso\Downloads\github\ApiBank\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\yago.cardoso\Downloads\github\ApiBank\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\yago.cardoso\Downloads\github\ApiBank\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\yago.cardoso\Downloads\github\ApiBank\Repositories\obj\Debug\net8.0\ref\Repositories.dll
